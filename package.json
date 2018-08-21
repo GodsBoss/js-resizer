@@ -1,0 +1,9 @@
+{
+  "name": "@godsboss/resizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/resizer.js",
+  "scripts": {},
+  "author": "Timo Reitz <godsboss@gmx.de>",
+  "license": "GPL-3.0"
+}
